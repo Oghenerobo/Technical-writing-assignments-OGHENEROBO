@@ -26,7 +26,6 @@
 
 4\.1 More resources
 
-
 ## **1. Introduction**
 Google Chrome is a free web browser developed by Google, designed to provide users with a secure browsing experience. It is available for various desktop and mobile devices. This user guide focuses on the mobile version of Google Chrome and how to use it effectively. 
 ### **1.1 Why Google Chrome?**
@@ -109,7 +108,7 @@ If you experience any issues with the Google Chrome browser for mobile devices, 
 To test your browser, you can use the **Appwrite website** as follows 
 1. Type the **Appwrite web address** (https://appwrite.io) in the address bar
 
-![](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.005.png)
+![](IMAGES/page_1.jpeg)
 
    **OR**
 
