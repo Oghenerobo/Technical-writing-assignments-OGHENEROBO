@@ -4,9 +4,7 @@
 
 1\.	**Introduction**
 
-1\.1 What is Google Chrome?
-
-1\.2 Why Google Chrome?
+1\.1 Why Google Chrome?
 
 2\.	**How to use Google Chrome**
 
@@ -29,10 +27,9 @@
 4\.1 More resources
 
 
-1. ## **Introduction**
-### **1.1 What is Google Chrome?**
+## **1. Introduction**
 Google Chrome is a free web browser developed by Google, designed to provide users with a secure browsing experience. It is available for various desktop and mobile devices. This user guide focuses on the mobile version of Google Chrome and how to use it effectively. 
-### **1.2 Why Google Chrome?**
+### **1.1 Why Google Chrome?**
 Google Chrome is a popular web browser worldwide because it is fast, reliable, and easy to use. Google Chrome also has advanced features unlike other browsers, including automatic translation and an option for synchronization across devices.
 
 Some advantages of Google Chrome are
@@ -42,7 +39,7 @@ Some advantages of Google Chrome are
 - **Ease of Use:** Google Chrome is easy to use, with a simple interface, and it has a range of features, like tabbed browsing, bookmarks, and incognito mode, that make browsing the web more convenient.
 - **Customization:** Google Chrome has various extensions and themes to customize your browsing experience. It also has options to block ads or change your browser's appearance. 
 
-1. ## **How to use Google Chrome**
+## **2. How to use Google Chrome**
 ### **2.1 Installation**
 Install Google Chrome on your mobile device using these steps
 
@@ -67,7 +64,7 @@ The home page on Google Chrome for mobile devices has the following interface fe
 - A **sign-in button** to sign into your Google account
 - A **Google menu button** which can be used to access your Google applications if you are signed in to your Google account.
 - A **home icon** which can take you back to the browser's home page
-  2. #### **Functions**
+#### **2.2.2 Functions**
 ![C:\Users\Oghenerobo\OneDrive\Documents\GOOGLE CHROME GUIDE\CHROME_menu options.jpeg](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.004.jpeg)
 
 - **Browsing the web:** To browse the web, enter a URL or search term in the address bar and tap "Go" on your keyboard. You can also navigate to a website by tapping on a link from another app or search engine. 
@@ -75,9 +72,9 @@ The home page on Google Chrome for mobile devices has the following interface fe
 - **Incognito Mode:** To activate the incognito mode, tap the three dots in the top right corner and select "New Incognito Tab." You can browse the internet without saving your browsing history or cookies in incognito mode. 
 - **Bookmarks:** To access your bookmarks, tap on the menu button and select "Bookmarks." 
 
-**To bookmark a website**, tap the star icon on the address bar or tap on the menu button, select "Bookmarks," then tap on the "+" icon. 
+  **To bookmark a website**, tap the star icon on the address bar or tap on the menu button, select "Bookmarks," then tap on the "+" icon. 
 
-**To edit an existing bookmark**, tap on the menu button, select "Bookmarks," then tap on the bookmarked website you want to edit and make your changes. 
+  **To edit an existing bookmark**, tap on the menu button, select "Bookmarks," then tap on the bookmarked website you want to edit and make your changes. 
 
 - **History:** To view your browsing history, tap the menu button and select "History." This will show a list of the websites you've visited recently.
 - **Downloads:** To view your downloads, tap the menu button and select "Downloads." This will show a list of the files you've downloaded.
@@ -110,18 +107,20 @@ If you experience any issues with the Google Chrome browser for mobile devices, 
 - If the steps above are ineffective, **reboot your device** by pressing and holding down the power button and choosing restart from the menu.
 ### **2.3 Testing Google Chrome for mobile devices**
 To test your browser, you can use the **Appwrite website** as follows 
-
 1. Type the **Appwrite web address** (https://appwrite.io) in the address bar
 
 ![](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.005.png)
 
-**OR**
+   **OR**
 
-1. Type "**Appwrite**" in the address bar and click on the result with the **Appwrite web address** 
+2. Type "**Appwrite**" in the address bar and click on the result with the **Appwrite web address** 
 
 ![](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.006.png)
 # **3. Google Chrome Alternatives**
-Alternative web browsers available for mobile devices include Firefox, Opera, and Safari.
+Alternative web browsers available for mobile devices include 
+- Firefox 
+- Opera 
+- Safari
 # **4. Conclusion**
 The Google Chrome browser for mobile devices is a useful tool for browsing the internet on your mobile device. This user guide helps you utilize its features and capabilities. Google Chrome remains one of the most popular browsers, with versions available for Android and iOS devices.
 ### **4.1 More resources**
