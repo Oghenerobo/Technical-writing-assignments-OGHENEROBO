@@ -46,7 +46,7 @@ Install Google Chrome on your mobile device using these steps
 1) Search for "Google Chrome"
 1) Tap "Install" and follow the download and installation instructions
 
-![image](C:\Users\Oghenerobo\Downloads\annotely_images\annotely\annotely\page1.png)
+![image](C:\Users\Oghenerobo\OneDrive\Documents\GitHub\Technical-writing-assignments\IMAGES\page_1.png)
 
 ![](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.002.png)
 
