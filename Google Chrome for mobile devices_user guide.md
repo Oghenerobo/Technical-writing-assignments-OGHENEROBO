@@ -1,4 +1,4 @@
-﻿# **Google Chrome for mobile devices: user guide**
+﻿# **Google Chrome for Android Devices: User Guide**
 
 ## **Outline**
 
@@ -18,7 +18,7 @@
 
 2\.2.3 Troubleshooting
 
-2\.3 Testing Google Chrome for mobile devices	
+2\.3 Testing Google Chrome on your device	
 
 3\. **Google Chrome Alternatives**	
 
@@ -27,7 +27,7 @@
 4\.1 More resources
 
 ## **1. Introduction**
-Google Chrome is a free web browser developed by Google, designed to provide users with a secure browsing experience. It is available for various desktop and mobile devices. This user guide focuses on the mobile version of Google Chrome and how to use it effectively. 
+Google Chrome is a free web browser developed by Google, designed to provide users with a secure browsing experience. It is available for various desktop and mobile devices. This user guide focuses on the mobile version of Google Chrome and how to use it effectively on an Android device. 
 ### **1.1 Why Google Chrome?**
 Google Chrome is a popular web browser worldwide because it is fast, reliable, and easy to use. Google Chrome also has advanced features unlike other browsers, including automatic translation and an option for synchronization across devices.
 
@@ -40,21 +40,20 @@ Some advantages of Google Chrome are
 
 ## **2. How to use Google Chrome**
 ### **2.1 Installation**
-Install Google Chrome on your mobile device using these steps
+Install Google Chrome on your Android device using these steps
 
-1) Open the app store on your device (Google Play Store for Android or App Store for iOS).
+1) Open Google Play Store on your device
 1) Search for "Google Chrome"
 1) Tap "Install" and follow the download and installation instructions
 
-![image](C:\Users\Oghenerobo\OneDrive\Documents\GitHub\Technical-writing-assignments\IMAGES\page_1.png)
+![]()
 
-![](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.002.png)
 
 ### **2.2 Getting started** 
 #### **2.2.1 Navigation** 
-The home page on Google Chrome for mobile devices has the following interface features 
+The home page on Google Chrome for Android devices has the following interface features 
 
-![C:\Users\Oghenerobo\OneDrive\Documents\GOOGLE CHROME GUIDE\chrome clear home page.jpeg](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.003.jpeg)
+![]()
 
 - An **address bar** where you can enter the URL of websites you want to visit and items can be typed here to search for them on Google.
 - A **tabs button** that displays open tabs in Google Chrome for mobile devices. **To open a new tab**, tap the plus icon in the top right corner, or tap on the tab button if multiple tabs are open. **To switch between tabs**, tap on the tabs button and any tabs displayed afterwards, or swipe left or right on the address bar.
@@ -64,7 +63,7 @@ The home page on Google Chrome for mobile devices has the following interface fe
 - A **Google menu button** which can be used to access your Google applications if you are signed in to your Google account.
 - A **home icon** which can take you back to the browser's home page
 #### **2.2.2 Functions**
-![C:\Users\Oghenerobo\OneDrive\Documents\GOOGLE CHROME GUIDE\CHROME_menu options.jpeg](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.004.jpeg)
+![]()
 
 - **Browsing the web:** To browse the web, enter a URL or search term in the address bar and tap "Go" on your keyboard. You can also navigate to a website by tapping on a link from another app or search engine. 
 - **Tabs:** To open multiple tabs, click on the tabs button. To open a new tab, tap on the "+" icon. To close a tab, swipe it off to the side. You can also switch between tabs by swiping left or right.
@@ -108,13 +107,13 @@ If you experience any issues with the Google Chrome browser for mobile devices, 
 To test your browser, you can use the **Appwrite website** as follows 
 1. Type the **Appwrite web address** (https://appwrite.io) in the address bar
 
-![](IMAGES/page_1.jpeg)
+![]()
 
    **OR**
 
 2. Type "**Appwrite**" in the address bar and click on the result with the **Appwrite web address** 
 
-![](Aspose.Words.d9c119c9-02e6-4a2c-9a98-786b51c8ad9c.006.png)
+![]()
 # **3. Google Chrome Alternatives**
 Alternative web browsers available for mobile devices include 
 - Firefox 
