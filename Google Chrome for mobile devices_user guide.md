@@ -46,14 +46,13 @@ Install Google Chrome on your Android device using these steps
 1) Search for "Google Chrome"
 1) Tap "Install" and follow the download and installation instructions
 
-![]()
-
+![Google play store](/images/Playstore%20(1).png)
 
 ### **2.2 Getting started** 
 #### **2.2.1 Navigation** 
 The home page on Google Chrome for Android devices has the following interface features 
 
-![]()
+![Google Chrome Navigation](/images/Home%20page.png)
 
 - An **address bar** where you can enter the URL of websites you want to visit and items can be typed here to search for them on Google.
 - A **tabs button** that displays open tabs in Google Chrome for mobile devices. **To open a new tab**, tap the plus icon in the top right corner, or tap on the tab button if multiple tabs are open. **To switch between tabs**, tap on the tabs button and any tabs displayed afterwards, or swipe left or right on the address bar.
@@ -62,8 +61,9 @@ The home page on Google Chrome for Android devices has the following interface f
 - A **sign-in button** to sign into your Google account
 - A **Google menu button** which can be used to access your Google applications if you are signed in to your Google account.
 - A **home icon** which can take you back to the browser's home page
+
 #### **2.2.2 Functions**
-![]()
+![Google Chrome Functions](/images/Browser%20Menu.png)
 
 - **Browsing the web:** To browse the web, enter a URL or search term in the address bar and tap "Go" on your keyboard. You can also navigate to a website by tapping on a link from another app or search engine. 
 - **Tabs:** To open multiple tabs, click on the tabs button. To open a new tab, tap on the "+" icon. To close a tab, swipe it off to the side. You can also switch between tabs by swiping left or right.
@@ -79,47 +79,43 @@ The home page on Google Chrome for Android devices has the following interface f
 - **Settings:** To access the settings, tap on the menu button and select "Settings." This function allows you to customize various features, including your homepage, privacy, and security settings.
 - **Syncing with other devices:** You can sync your browsing history, bookmarks, and settings across all your devices with Google Chrome if you have a Google account. To enable syncing, tap on the menu button, select "Settings," tap on your Google account name, and select the items to sync.
 - **Voice search:** To use the voice search feature, tap the microphone icon in the address bar and speak your search term.
-- **Image search:** To use the image search function, tap the image icon in the address bar, upload the image from your gallery, or take a picture with your camera.
+- **Image search:** To use the image search function, tap the image icon in the address bar, upload the image from your gallery, or take a picture with your camera.  
+
 #### **2.2.3 Troubleshooting**
 If you experience any issues with the Google Chrome browser for mobile devices, follow these troubleshooting suggestions 
 
 - **Restart the browser** by closing and reopening it
-- If restarting the browser doesn't work, **force close and relaunch the browser** as follows
-1. For Android users
-   1) Go to **Settings** on your device
-   1) Search for **Chrome** under **Apps & notifications** and select it
-   1) Tap **Force stop** to force close and relaunch the browser 
-1. For iOS users
-   1) Go to **Settings** on your device
-   1) Search for **Chrome** and select it
-   1) Click the Background App Refresh button 
-- **Clear your cache files** as follows
-1. For Android users
-   1) Go to **Settings** on your device
-   1) Search for **Chrome** under **Apps & notifications** and select it
-   1) Tap Storage & cache and select Clear Cache 
-1. For iOS users
-   1) Go to **Settings** on your device
-   1) Search for **iPhone storage** and select it
-   1) Search for Chrome and select **Offload App**
-- If the steps above are ineffective, **reboot your device** by pressing and holding down the power button and choosing restart from the menu.
-### **2.3 Testing Google Chrome for mobile devices**
-To test your browser, you can use the **Appwrite website** as follows 
-1. Type the **Appwrite web address** (https://appwrite.io) in the address bar
+- If restarting the browser doesn't work, **force close and relaunch the browser** as follows  
+  i) Go to **Settings** on your device  
+  ii) Search for **Chrome** under **Apps & notifications** and select it  
+  iii) Tap **Force stop** to force close and relaunch the browser 
 
-![]()
+- **Clear your cache files** as follows  
+  i) Go to **Settings** on your device  
+  ii) Search for **Chrome** under **Apps & notifications** and select it  
+  iii) Tap Storage & cache and select Clear Cache 
+
+- If the steps above are ineffective, **reboot your device** by pressing and holding down the power button and choosing restart from the menu.  
+
+### **2.3 Testing Google Chrome for mobile devices**
+To test your browser, you can use the **Appwrite website** as follows   
+i. Type the **Appwrite web address** (https://appwrite.io) in the address bar
+
+![Appwrite](/images/Method%201.png)
 
    **OR**
 
-2. Type "**Appwrite**" in the address bar and click on the result with the **Appwrite web address** 
+ii. Type "**Appwrite**" in the address bar and click on the result with the **Appwrite web address** 
 
-![]()
-# **3. Google Chrome Alternatives**
+![Appwrite 2](/images/Method%202.png)  
+
+## **3. Google Chrome Alternatives**
 Alternative web browsers available for mobile devices include 
 - Firefox 
 - Opera 
-- Safari
-# **4. Conclusion**
+- Safari  
+
+## **4. Conclusion**
 The Google Chrome browser for mobile devices is a useful tool for browsing the internet on your mobile device. This user guide helps you utilize its features and capabilities. Google Chrome remains one of the most popular browsers, with versions available for Android and iOS devices.
 ### **4.1 More resources**
 More detailed information about Google Chrome can be accessed at
